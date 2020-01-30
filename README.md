@@ -1,1 +1,1 @@
-# HierarchialLabelScript
+# HierarchicalLabelScript
